@@ -11,6 +11,7 @@ router.get('/:sub', (req, res) => {
         fs.createReadStream( './subjects/' + req.params.sub + '.csv')
         .pipe(csv())
         .on('data', (row) => {
+            delete row.day
             data.push(row)
         })
         .on('end', () => {
