@@ -4,7 +4,7 @@ const router = express.Router()
 const csv = require('csv-parser');
 const fs = require('fs');
 
-router.get('/test/:sub', (req, res) => {
+router.get('/:sub', (req, res) => {
     subjects = ['cn', 'db', 'pds']
     data = []
     if(subjects.includes(req.params.sub)){
