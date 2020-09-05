@@ -11,7 +11,12 @@ router.get('/:sub', (req, res) => {
         fs.createReadStream( './subjects/' + req.params.sub + '.csv')
         .pipe(csv())
         .on('data', (row) => {
-            data.push(row)
+            row_obj = {
+                'topic' : row[1],
+                'video' : row[2],
+                'seconds' : row[3],
+            }
+            data.push(row_obj)
         })
         .on('end', () => {
             res.send({'subject' : req.params.sub, 'data': data})
