@@ -14,7 +14,7 @@ router.get('/:sub', (req, res) => {
             data.push(row)
         })
         .on('end', () => {
-            res.json({'subject' : req.params.sub, 'data': data})
+            res.send({'subject' : req.params.sub, 'data': data})
         });
 
     } else {
