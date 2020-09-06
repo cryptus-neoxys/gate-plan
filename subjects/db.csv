@@ -1,338 +1,338 @@
-day,topic,video,seconds,time
-day 0,1.ER Model,1.introduction to dbms.mp4,632.64,0:10:32
-day 0,1.ER Model,2.models in dbms.mp4,422.53,0:7:2
-day 0,1.ER Model,3.introduction to er model.mp4,597.44,0:9:57
-day 0,1.ER Model,4.attributes.mp4,663.19,0:11:3
-day 0,1.ER Model,5.relationships (1 to many).mp4,1164.82,0:19:24
-day 0,1.ER Model,6.relationships (one to one example).mp4,484.48,0:8:4
-day 0,1.ER Model,7.relationships(many to many).mp4,568.09,0:9:28
-day 1,1.ER Model,8.recursive relationships.mp4,632.36,0:10:32
-day 1,1.ER Model,9.attributes to relationships.mp4,601.64,0:10:1
-day 1,1.ER Model,10.weak entity.mp4,1099.99,0:18:19
-day 1,2.Relational Database Model,1.introduction to relational model.mp4,918.89,0:15:18
-day 1,2.Relational Database Model,2.terminology of relational database.mp4,613.95,0:10:13
-day 1,2.Relational Database Model,3.tuple tuple values and null.mp4,244.91,0:4:4
-day 2,2.Relational Database Model,4.constraints on relational db schema -- domain co.mp4,444.2,0:7:24
-day 2,2.Relational Database Model,5.constraints on relational database schema.mp4,1855.45,0:30:55
-day 2,2.Relational Database Model,6.entity and referential integrity constraints.mp4,755.31,0:12:35
-day 2,2.Relational Database Model,7.actions upon constraint violations.mp4,1058.82,0:17:38
-day 2,2.Relational Database Model,8.counting the number of sks possible -- example 1.mp4,385.28,0:6:25
-day 3,2.Relational Database Model,9.counting the number of sks possible -- example 2.mp4,335.08,0:5:35
-day 3,2.Relational Database Model,10.counting the number of sks possible -- example_.mp4,417.24,0:6:57
-day 3,2.Relational Database Model,11.counting the number of sks possible -- example_.mp4,213.7,0:3:33
-day 3,3.Conversion of ER model to Relational model,1.step1.mp4,290.77,0:4:50
-day 3,3.Conversion of ER model to Relational model,2.step 2.mp4,523.24,0:8:43
-day 3,3.Conversion of ER model to Relational model,3.step 3.mp4,890.22,0:14:50
-day 3,3.Conversion of ER model to Relational model,4.step 4.mp4,458.11,0:7:38
-day 3,3.Conversion of ER model to Relational model,5.step 5.mp4,906.33,0:15:6
-day 3,3.Conversion of ER model to Relational model,6.step 6.mp4,289.69,0:4:49
-day 4,3.Conversion of ER model to Relational model,7.step 7.mp4,107.48,0:1:47
-day 4,3.Conversion of ER model to Relational model,8.summary of er to rdb conversion.mp4,232.04,0:3:52
-day 4,3.Conversion of ER model to Relational model,9.gate it 2005 question on er diagrams.mp4,301.72,0:5:1
-day 4,3.Conversion of ER model to Relational model,10.gate 12 question on converting er to rdb.mp4,159.0,0:2:39
-day 4,3.Conversion of ER model to Relational model,11.gate it 04 conversion of er to rdb.mp4,319.68,0:5:19
-day 4,3.Conversion of ER model to Relational model,12.gate 05 on cascade on delete in case of foreign.mp4,547.67,0:9:7
-day 4,3.Conversion of ER model to Relational model,13.gate 2005 question on converting er to rdb.mp4,261.16,0:4:21
-day 4,3.Conversion of ER model to Relational model,14.gate 08 on converting er to rdb.mp4,492.27,0:8:12
-day 4,3.Conversion of ER model to Relational model,15.gate 97 question on referential integrity.mp4,361.32,0:6:1
-day 4,4.Normalisation,1.introduction to normalisation.mp4,775.79,0:12:55
-day 4,4.Normalisation,2.introduction to fds.mp4,739.26,0:12:19
-day 4,4.Normalisation,3.fd examples.mp4,864.68,0:14:24
-day 5,4.Normalisation,3nf example 4 from ravindra on vimeo.mp4,660.44,0:11:0
-day 5,4.Normalisation,3nf example 5 from ravindra on vimeo.mp4,587.84,0:9:47
-day 5,4.Normalisation,3nf example 6 from ravindra on vimeo.mp4,679.66,0:11:19
-day 5,4.Normalisation,4.gate 2000 question on fds.mp4,228.25,0:3:48
-day 5,4.Normalisation,5.gate 2002 question on fds.mp4,268.12,0:4:28
-day 5,4.Normalisation,6.formal definition of fds.mp4,274.56,0:4:34
-day 5,4.Normalisation,7.various usages of fds.mp4,595.69,0:9:55
-day 5,4.Normalisation,8.closure set of attributes.mp4,485.12,0:8:5
-day 5,4.Normalisation,9.gate 2006 question on closure set of attributes_.mp4,289.56,0:4:49
-day 6,4.Normalisation,10.determining candidate keys.mp4,606.23,0:10:6
-day 6,4.Normalisation,11.gate 99 question on candidate keys.mp4,614.17,0:10:14
-day 6,4.Normalisation,12.gate 2014 question on candidate keys.mp4,470.36,0:7:50
-day 6,4.Normalisation,13.gate 05 question on candidate key.mp4,579.71,0:9:39
-day 6,4.Normalisation,14.gate 2013 question on candidate key.mp4,1079.51,0:17:59
-day 6,4.Normalisation,15.examples on candidate key -- 1.mp4,394.13,0:6:34
-day 6,4.Normalisation,16.examples on candidate key -- 2.mp4,331.01,0:5:31
-day 7,4.Normalisation,17.examples on candidate key -- 3.mp4,233.0,0:3:53
-day 7,4.Normalisation,18.candidate key example 4.mp4,673.81,0:11:13
-day 7,4.Normalisation,19.examples on candidate key -- 5.mp4,474.18,0:7:54
-day 7,4.Normalisation,20.examples on candidate key -- 6.mp4,158.44,0:2:38
-day 7,4.Normalisation,21.examples on candidate key -- 7.mp4,209.75,0:3:29
-day 7,4.Normalisation,22.candidate key for sub relation -- example 1.mp4,244.42,0:4:4
-day 7,4.Normalisation,23candidate keys for sub relation -- example 2.mp4,109.53,0:1:49
-day 7,4.Normalisation,24.candidate keys for sub relation -- example 3.mp4,195.48,0:3:15
-day 7,4.Normalisation,25.checking additional fds -- example 1.mp4,578.52,0:9:38
-day 7,4.Normalisation,26.checking additional fds -- example 2.mp4,501.61,0:8:21
-day 7,4.Normalisation,27gate it 05 question on additional fds.mp4,152.02,0:2:32
-day 7,4.Normalisation,28equivalence of fds.mp4,341.06,0:5:41
-day 7,4.Normalisation,29.equivalence of fds -- example 1.mp4,109.23,0:1:49
-day 8,4.Normalisation,30.equivalence of fds -- example 2.mp4,158.53,0:2:38
-day 8,4.Normalisation,31.minimal cover.mp4,952.43,0:15:52
-day 8,4.Normalisation,32.minimal cover example 1.mp4,337.05,0:5:37
-day 8,4.Normalisation,33.2013 gate on minimal cover.mp4,262.76,0:4:22
-day 8,4.Normalisation,34.lossless decomposition.mp4,637.72,0:10:37
-day 8,4.Normalisation,35.fd preserving.mp4,379.52,0:6:19
-day 8,4.Normalisation,36.decomposition example1.mp4,290.01,0:4:50
-day 8,4.Normalisation,37decomposition example2.mp4,363.24,0:6:3
-day 8,4.Normalisation,38.decomposition example 3.mp4,435.8,0:7:15
-day 8,4.Normalisation,39.decomposition example 4.mp4,1174.14,0:19:34
-day 9,4.Normalisation,40.decomposition example 5.mp4,323.37,0:5:23
-day 9,4.Normalisation,41.decomposition example 6.mp4,107.84,0:1:47
-day 9,4.Normalisation,42.first normal form.mp4,339.73,0:5:39
-day 9,4.Normalisation,43.second normal form.mp4,668.61,0:11:8
-day 9,4.Normalisation,44.2nf example 1.mp4,420.65,0:7:0
-day 9,4.Normalisation,45.2 nf example 2.mp4,497.77,0:8:17
-day 9,4.Normalisation,46.2 nf example 3.mp4,260.22,0:4:20
-day 9,4.Normalisation,47.3nf introduction.mp4,510.72,0:8:30
-day 9,4.Normalisation,48.3nf example 1.mp4,550.02,0:9:10
-day 9,4.Normalisation,49.3nf example 2.mp4,442.26,0:7:22
-day 10,4.Normalisation,50.formal defination of  3nf.mp4,375.68,0:6:15
-day 10,4.Normalisation,51.3nf example 3.mp4,594.09,0:9:54
-day 10,4.Normalisation,52.bcnf introduction.mp4,316.27,0:5:16
-day 10,4.Normalisation,53.bcnf example 1.mp4,578.5,0:9:38
-day 10,4.Normalisation,54.bcnf example 2.mp4,668.2,0:11:8
-day 10,4.Normalisation,54.bcnf example 3.mp4,640.0,0:10:40
-day 10,4.Normalisation,54.bcnf example 4.mp4,556.67,0:9:16
-day 10,4.Normalisation,55.bcnf example 4.mp4,299.2,0:4:59
-day 11,4.Normalisation,56.bcnf example 5.mp4,570.43,0:9:30
-day 11,4.Normalisation,57.bcnf example 6.mp4,371.07,0:6:11
-day 11,4.Normalisation,58.bcnf example 7.mp4,639.38,0:10:39
-day 11,4.Normalisation,59.bcnf example 7 continued.mp4,213.63,0:3:33
-day 11,4.Normalisation,60.bcnf example 8 part 1.mp4,417.69,0:6:57
-day 11,4.Normalisation,61.bcnf example 8 part 2.mp4,370.92,0:6:10
-day 11,4.Normalisation,61.bcnf example 9.mp4,401.94,0:6:41
-day 11,4.Normalisation,62.bcnf example 10 part1.mp4,533.61,0:8:53
-day 11,4.Normalisation,63.bcnf example 10 part 2.mp4,181.82,0:3:1
-day 11,4.Normalisation,64.gate questions on normalisation 1.mp4,231.13,0:3:51
-day 12,4.Normalisation,65.gate questions on normalisation 2.mp4,397.18,0:6:37
-day 12,4.Normalisation,66.gate questions on normalisation 3.mp4,285.7,0:4:45
-day 12,4.Normalisation,67.gate questions on normalisation 4.mp4,223.06,0:3:43
-day 12,4.Normalisation,68.gate 2001 question on bcnf.mp4,735.55,0:12:15
-day 12,4.Normalisation,69.gate 04 question on normalisation.mp4,295.06,0:4:55
-day 12,4.Normalisation,69.gate 2002 question.mp4,280.09,0:4:40
-day 12,4.Normalisation,70.gate it 04 question on normalisation.mp4,284.03,0:4:44
-day 12,4.Normalisation,71.gate 07 question.mp4,196.57,0:3:16
-day 12,4.Normalisation,72.gate 2008 question on normalisation.mp4,472.34,0:7:52
-day 12,4.Normalisation,73.gate 2008 and 2013 questions on normalisation.mp4,575.83,0:9:35
-day 12,4.Normalisation,formal defination of 3nf from ravindra on vimeo.mp4,679.91,0:11:19
-day 13,4.Normalisation,gate 94 question normalization from ravibabu on vi.mp4,571.78,0:9:31
-day 13,4.Normalisation,gate 95 on normalization from ravibabu on vimeo.mp4,159.59,0:2:39
-day 13,4.Normalisation,gate 97 on normilization from ravibabu on vimeo.mp4,105.34,0:1:45
-day 13,4.Normalisation,gate 98 on normalization from ravibabu on vimeo.mp4,68.31,0:1:8
-day 13,4.Normalisation,gate 99 on normalization from ravibabu on vimeo.mp4,205.44,0:3:25
-day 13,4.Normalisation,gate 99 2002 on normalization from ravibabu on vi.mp4,197.89,0:3:17
-day 13,4.Normalisation,gate 2000 on normilization from ravibabu on vimeo_.mp4,370.71,0:6:10
-day 13,4.Normalisation,gate 2001 on normilization from ravibabu on vimeo_(1).mp4,781.57,0:13:1
-day 13,4.Normalisation,gate 2001 on normilization from ravibabu on vimeo_.mp4,130.94,0:2:10
-day 13,4.Normalisation,gate 2002 on normilization from ravibabu on vimeo_.mp4,223.32,0:3:43
-day 13,4.Normalisation,gate 2004 on normilization from ravibabu on vimeo_(1).mp4,250.56,0:4:10
-day 13,4.Normalisation,gate 2004 on normilization from ravibabu on vimeo_.mp4,298.75,0:4:58
-day 13,4.Normalisation,gate 2010 on normilization from ravibabu on vimeo_.mp4,275.33,0:4:35
-day 13,4.Normalisation,gate 2011 on normilization from ravibabu on vimeo_.mp4,256.92,0:4:16
-day 14,4.Normalisation,gate 2013 on normilization from ravibabu on vimeo_.mp4,760.68,0:12:40
-day 14,4.Normalisation,gate 2014 on normalization from ravibabu on vimeo_.mp4,266.33,0:4:26
-day 14,4.Normalisation,gate  previous question on normilazation from ravi.mp4,478.85,0:7:58
-day 14,4.Normalisation,os 156 from udaya on vimeo.mp4,198.93,0:3:18
-day 14,4.Normalisation,tbd from ravindra on vimeo.mp4,275.8,0:4:35
-day 14,5.Relational Algebra,1.introduction to relational algebra.mp4,768.87,0:12:48
-day 14,5.Relational Algebra,2.selection operation.mp4,566.93,0:9:26
-day 14,5.Relational Algebra,3.projection operation.mp4,930.24,0:15:30
-day 14,5.Relational Algebra,4.rename operation.mp4,356.1,0:5:56
-day 15,5.Relational Algebra,5.gate 98 question on selection and projection.mp4,413.57,0:6:53
-day 15,5.Relational Algebra,6.gate 2012 question on projection.mp4,396.33,0:6:36
-day 15,5.Relational Algebra,7.set operations.mp4,550.76,0:9:10
-day 15,5.Relational Algebra,8.cartesian product.mp4,667.63,0:11:7
-day 15,5.Relational Algebra,9.join and natural join.mp4,1073.49,0:17:53
-day 15,5.Relational Algebra,10.division operation.mp4,828.74,0:13:48
-day 15,5.Relational Algebra,11.aggregate functions and outer joins.mp4,1052.22,0:17:32
-day 16,5.Relational Algebra,12.complete set of ra operations.mp4,260.05,0:4:20
-day 16,5.Relational Algebra,13.gate questions on la -- 1.mp4,667.24,0:11:7
-day 16,5.Relational Algebra,14.gate 2003 question on converting sql to ra.mp4,231.89,0:3:51
-day 16,5.Relational Algebra,15.gate 04 question on foreign key and relational_.mp4,359.0,0:5:59
-day 16,5.Relational Algebra,16.gate 05 question on decomposition and join.mp4,396.63,0:6:36
-day 16,5.Relational Algebra,17.gate 2014 question on cascading selection and j.mp4,97.34,0:1:37
-day 16,5.Relational Algebra,18.gate 04 question on interpreting an ra expressi.mp4,822.29,0:13:42
-day 16,5.Relational Algebra,19.gate 07 question on interpreting the ra express.mp4,589.29,0:9:49
-day 16,5.Relational Algebra,20.gate 07 it on optimisation of ra expression.mp4,384.17,0:6:24
-day 16,5.Relational Algebra,21.gate 2008 question on natural join.mp4,374.66,0:6:14
-day 17,5.Relational Algebra,22.gate 2010 question on natural join on primary k.mp4,251.52,0:4:11
-day 17,5.Relational Algebra,23.gate 12 question on union and natural join.mp4,254.61,0:4:14
-day 17,5.Relational Algebra,24.gate 14 question on nested evaluation of join.mp4,311.45,0:5:11
-day 17,5.Relational Algebra,25.gate 2014 question on interpretation of ra expr.mp4,548.59,0:9:8
-day 17,5.Relational Algebra,complete set operations from ravibabu on vimeo.mp4,90.2,0:1:30
-day 17,5.Relational Algebra,conversion bw quantitiers-3 from ravindra on vimeo.mp4,565.72,0:9:25
-day 17,5.Relational Algebra,conversion bw quantities -2 from ravindra on vimeo.mp4,365.08,0:6:5
-day 17,5.Relational Algebra,conversion bw quantities-1 from ravindra on vimeo_.mp4,482.58,0:8:2
-day 17,5.Relational Algebra,division operation from ravibabu on vimeo.mp4,502.68,0:8:22
-day 17,5.Relational Algebra,example 1 on drc from ravi on vimeo.mp4,215.02,0:3:35
-day 17,5.Relational Algebra,example 1 on trc syntax from ravindra on vimeo.mp4,504.28,0:8:24
-day 17,5.Relational Algebra,example 2 on drc from ravi on vimeo.mp4,287.96,0:4:47
-day 18,5.Relational Algebra,example 2 on trc syntax from ravindra on vimeo.mp4,222.25,0:3:42
-day 18,5.Relational Algebra,example 3 on drc from ravi on vimeo.mp4,265.49,0:4:25
-day 18,5.Relational Algebra,example 3 on trc syntax from ravindra on vimeo.mp4,580.37,0:9:40
-day 18,5.Relational Algebra,example 4 on drc from ravi on vimeo.mp4,179.31,0:2:59
-day 18,5.Relational Algebra,example 4 on trc syntax from ravindra on vimeo.mp4,548.74,0:9:8
-day 18,5.Relational Algebra,example 5 on drc from ravi on vimeo.mp4,195.97,0:3:15
-day 18,5.Relational Algebra,example 5 on trc syntax from ravindra on vimeo.mp4,587.56,0:9:47
-day 18,5.Relational Algebra,example 6 on trc syntax from ravindra on vimeo.mp4,825.11,0:13:45
-day 18,5.Relational Algebra,example 7 on trc syntax from ravindra on vimeo.mp4,587.8,0:9:47
-day 18,5.Relational Algebra,example 8 on trc syntax from ravindra on vimeo.mp4,375.68,0:6:15
-day 19,5.Relational Algebra,example 9 on trc syntax from ravindra on vimeo.mp4,586.35,0:9:46
-day 19,5.Relational Algebra,example 10 on trc syntax from ravindra on vimeo.mp4,737.54,0:12:17
-day 19,5.Relational Algebra,example 11 on trc syntax from ravindra on vimeo.mp4,279.72,0:4:39
-day 19,5.Relational Algebra,example 12 on trc syntax from ravibabu on vimeo.mp4,312.41,0:5:12
-day 19,5.Relational Algebra,extended relational algebra operations from ravi o.mp4,247.3,0:4:7
-day 19,5.Relational Algebra,free _amp_ bounded variables from ravindra on vime.mp4,664.26,0:11:4
-day 19,5.Relational Algebra,gate 07 on ra from ravindra on vimeo.mp4,587.65,0:9:47
-day 19,5.Relational Algebra,gate 12 on ra from ravindra on vimeo.mp4,347.97,0:5:47
-day 19,5.Relational Algebra,gate 14 on ra from ravindra on vimeo.mp4,657.26,0:10:57
-day 20,5.Relational Algebra,gate 99 on releation alzebra from ravibabu on vime.mp4,309.27,0:5:9
-day 20,5.Relational Algebra,gate 2000 on relation alzebra from ravibabu on vim.mp4,161.6,0:2:41
-day 20,5.Relational Algebra,gate 2002 on rc from ravibabu on vimeo.mp4,78.17,0:1:18
-day 20,5.Relational Algebra,gate 2004 on ra from ravibabu on vimeo.mp4,548.46,0:9:8
-day 20,5.Relational Algebra,gate 2005 on ra from ravindra on vimeo.mp4,407.7,0:6:47
-day 20,5.Relational Algebra,gate 20062008 on relational calculus from ravi on.mp4,209.41,0:3:29
-day 20,5.Relational Algebra,gate 2007 on relational calculus from ravi on vime.mp4,480.13,0:8:0
-day 20,5.Relational Algebra,gate 2008 on ra from ravindra on vimeo.mp4,430.68,0:7:10
-day 20,5.Relational Algebra,gate 2014 on ra from ravindra on vimeo.mp4,588.44,0:9:48
-day 20,5.Relational Algebra,gate 2014 question on relational algebra from ravi.mp4,200.3,0:3:20
-day 20,5.Relational Algebra,gate 2015 on ra from ravindra on vimeo.mp4,213.4,0:3:33
-day 20,5.Relational Algebra,gate it 06 on ra from ravindra on vimeo.mp4,318.4,0:5:18
-day 21,5.Relational Algebra,introduction to drc from ravindra on vimeo.mp4,387.88,0:6:27
-day 21,5.Relational Algebra,introduction to relation calculus from ravindra on.mp4,466.82,0:7:46
-day 21,5.Relational Algebra,join operation from ravibabu on vimeo.mp4,301.42,0:5:1
-day 21,5.Relational Algebra,natural join from ravibabu on vimeo.mp4,604.33,0:10:4
-day 21,5.Relational Algebra,trc syntex from ravindra on vimeo.mp4,311.08,0:5:11
-day 21,5.Relational Algebra,types of join from ravibabu on vimeo.mp4,785.69,0:13:5
-day 21,5.Relational Algebra,unsafe relational calculus expression from ravibab.mp4,234.99,0:3:54
-day 21,6.File Structures,b+ tree deletion from ravindra on vimeo.mp4,495.49,0:8:15
-day 21,6.File Structures,b+ tree insertion from ravindra on vimeo.mp4,673.09,0:11:13
-day 21,6.File Structures,b+ trees from ravindra on vimeo.mp4,781.33,0:13:1
-day 22,6.File Structures,b-tree insertion algorthim from ravindra on vimeo_.mp4,159.53,0:2:39
-day 22,6.File Structures,b-tree intersection example 1 from ravindra on vim.mp4,574.68,0:9:34
-day 22,6.File Structures,b-tree intersection example 2 from ravindra on vim.mp4,1077.25,0:17:57
-day 22,6.File Structures,b-tree search from ravindra on vimeo.mp4,441.62,0:7:21
-day 22,6.File Structures,b-tree searching algorithm from ravindra on vimeo_.mp4,711.17,0:11:51
-day 22,6.File Structures,b-trees-1 from ravi on vimeo.mp4,382.93,0:6:22
-day 22,6.File Structures,b-trees-2 from ravi on vimeo.mp4,441.58,0:7:21
-day 22,6.File Structures,classification of indexing from ravi on vimeo.mp4,360.19,0:6:0
-day 23,6.File Structures,clustering index from ravi on vimeo.mp4,189.08,0:3:9
-day 23,6.File Structures,deletion  from a b-tree-1 from ravindra on vimeo.mp4,379.73,0:6:19
-day 23,6.File Structures,deletion from a b-tree-2 from ravindra on vimeo.mp4,256.36,0:4:16
-day 23,6.File Structures,diff between b b+ tree and binary search from ravi.mp4,186.05,0:3:6
-day 23,6.File Structures,example 1 on b+ tree deletion from ravindra on vim.mp4,303.02,0:5:3
-day 23,6.File Structures,example 1 on b+trees from ravindra on vimeo.mp4,572.63,0:9:32
-day 23,6.File Structures,example 1 on b-trees from ravi on vimeo.mp4,469.01,0:7:49
-day 23,6.File Structures,example 2 on b+tree deletion from ravindra on vime.mp4,207.66,0:3:27
-day 23,6.File Structures,example 2 on b-trees from ravi on vimeo.mp4,306.73,0:5:6
-day 23,6.File Structures,example 3 on b+tree deletion from ravindra on vime.mp4,205.53,0:3:25
-day 23,6.File Structures,example 3 on b-trees from ravi on vimeo.mp4,240.17,0:4:0
-day 23,6.File Structures,example on b+tree insertion from ravindra on vimeo.mp4,918.04,0:15:18
-day 23,6.File Structures,example on primary index from ravi on vimeo.mp4,806.91,0:13:26
-day 24,6.File Structures,example on secondary index from ravi on vimeo.mp4,861.4,0:14:21
-day 24,6.File Structures,file organization from ravi on vimeo.mp4,762.58,0:12:42
-day 24,6.File Structures,gate 1308 on indexing from ravi on vimeo.mp4,121.17,0:2:1
-day 24,6.File Structures,gate 2007 on b+trees from ravindra on vimeo.mp4,170.11,0:2:50
-day 24,6.File Structures,gate 2010 on b+trees from ravindra on vimeo.mp4,123.05,0:2:3
-day 24,6.File Structures,gate 2013 on b+trees from ravindra on vimeo.mp4,362.2,0:6:2
-day 24,6.File Structures,gate 2015 question on b+trees from ravindra on vim.mp4,190.04,0:3:10
-day 24,6.File Structures,gate 2016 on b+tree from ravindra on vimeo.mp4,151.96,0:2:31
-day 24,6.File Structures,gate question 2008 on b-tree from ravindra on vime.mp4,316.2,0:5:16
-day 24,6.File Structures,gate question 2015 on b+trees from ravindra on vim.mp4,220.16,0:3:40
-day 24,6.File Structures,gate question it 2005 on b+trees from ravindra on_.mp4,140.01,0:2:20
-day 24,6.File Structures,intro to indexing from ravi on vimeo.mp4,788.25,0:13:8
-day 24,6.File Structures,organization of records in a file from ravi on vim.mp4,454.36,0:7:34
-day 25,6.File Structures,primary index from ravi on vimeo.mp4,357.65,0:5:57
-day 25,6.File Structures,searching b+trees alogrthim from ravindra on vimeo.mp4,573.95,0:9:33
-day 25,6.File Structures,secondary index from ravi on vimeo.mp4,246.08,0:4:6
-day 25,6.File Structures,underflow and overflow in b-trees from ravindra on.mp4,425.34,0:7:5
-day 25,7.SQL,aggregate functions from ravindra on vimeo.mp4,337.47,0:5:37
-day 25,7.SQL,alasing from ravi on vimeo.mp4,532.05,0:8:52
-day 25,7.SQL,alter from ravindra on vimeo.mp4,274.01,0:4:34
-day 25,7.SQL,any some all from ravindra on vimeo.mp4,394.18,0:6:34
-day 25,7.SQL,arthemetic and between operation from ravindra on_.mp4,590.93,0:9:50
-day 25,7.SQL,constrains in sql from ravindra on vimeo.mp4,1206.27,0:20:6
-day 26,7.SQL,create table from ravindra on vimeo.mp4,331.07,0:5:31
-day 26,7.SQL,creation of schema from ravindra on vimeo.mp4,243.16,0:4:3
-day 26,7.SQL,dealing wiht null values in aggregate functions fr.mp4,321.49,0:5:21
-day 26,7.SQL,dealing with null values -1 from ravindra on vimeo.mp4,407.64,0:6:47
-day 26,7.SQL,dealing with null values -2 from ravindra on vimeo.mp4,338.6,0:5:38
-day 26,7.SQL,dealing with null values -3 from ravindra on vimeo.mp4,183.64,0:3:3
-day 26,7.SQL,delete and update from ravindra on vimeo.mp4,632.19,0:10:32
-day 26,7.SQL,example 1 on exists non existe from ravi on vimeo_.mp4,409.13,0:6:49
-day 26,7.SQL,example 2 on exists non existe from ravi on vimeo_.mp4,584.64,0:9:44
-day 26,7.SQL,example 2 on inoperator from ravindra on vimeo.mp4,421.48,0:7:1
-day 26,7.SQL,example in operator from ravindra on vimeo.mp4,397.4,0:6:37
-day 27,7.SQL,example on join from ravi on vimeo.mp4,388.01,0:6:28
-day 27,7.SQL,example on order by from ravi on vimeo.mp4,512.92,0:8:32
-day 27,7.SQL,example on with clause from ravi on vimeo.mp4,276.8,0:4:36
-day 27,7.SQL,exists  not exists from ravindra on vimeo.mp4,582.68,0:9:42
-day 27,7.SQL,gate 98 on sql from ravindra on vimeo.mp4,346.52,0:5:46
-day 27,7.SQL,gate 99 on sql from ravindra on vimeo.mp4,96.34,0:1:36
-day 27,7.SQL,gate 2000 on sql from ravindra on vimeo.mp4,302.36,0:5:2
-day 27,7.SQL,gate 2003 on sql from ravindra on vimeo.mp4,164.44,0:2:44
-day 27,7.SQL,gate 2003 question on sql from ravindra on vimeo.mp4,351.55,0:5:51
-day 27,7.SQL,gate 2005 question on sql from ravindra on vimeo.mp4,410.97,0:6:50
-day 27,7.SQL,gate 2006 question on sql from ravindra on vimeo.mp4,1007.94,0:16:47
-day 27,7.SQL,gate 2007 question on sql from ravindra on vimeo.mp4,718.06,0:11:58
-day 28,7.SQL,gate 2011 question on sql from ravi on vimeo.mp4,240.73,0:4:0
-day 28,7.SQL,gate 2011 question on sql from ravindra on vimeo.mp4,347.31,0:5:47
-day 28,7.SQL,gate 2012 question on sql from ravi on vimeo.mp4,148.76,0:2:28
-day 28,7.SQL,gate 2014 question on sql from ravi on vimeo.mp4,462.44,0:7:42
-day 28,7.SQL,gate 2014 question on sql from ravi on vimeo_2.mp4,367.72,0:6:7
-day 28,7.SQL,gate 2014 questions on sql from ravi on vimeo.mp4,463.32,0:7:43
-day 28,7.SQL,gate 2015 question on sql from ravindra on vimeo.mp4,151.64,0:2:31
-day 28,7.SQL,gate 2016 question on sql from ravi on vimeo.mp4,368.21,0:6:8
-day 28,7.SQL,gate 2016 qustion on sql from ravi on vimeo.mp4,319.81,0:5:19
-day 28,7.SQL,gate  2004 queation on sql from ravindra on vimeo_.mp4,252.44,0:4:12
-day 28,7.SQL,gate-12 on sql from ravi on vimeo.mp4,119.85,0:1:59
-day 28,7.SQL,group by having clause from ravi on vimeo.mp4,614.49,0:10:14
-day 28,7.SQL,group by-2 from ravi on vimeo.mp4,362.77,0:6:2
-day 29,7.SQL,in operator from ravibabu on vimeo.mp4,407.13,0:6:47
-day 29,7.SQL,inserting into table from ravibabu on vimeo.mp4,420.44,0:7:0
-day 29,7.SQL,introducatio to sql from ravibabu on vimeo.mp4,284.31,0:4:44
-day 29,7.SQL,joins from ravi on vimeo.mp4,402.92,0:6:42
-day 29,7.SQL,order by from ravibabu on vimeo.mp4,567.08,0:9:27
-day 29,7.SQL,pattern matching from ravindra on vimeo.mp4,576.9,0:9:36
-day 29,7.SQL,ref constraints from ravibabu on vimeo.mp4,873.56,0:14:33
-day 29,7.SQL,select from ravibabu on vimeo.mp4,851.39,0:14:11
-day 29,7.SQL,set operations from ravibabu on vimeo.mp4,507.93,0:8:27
-day 30,7.SQL,view from ravibabu on vimeo.mp4,241.73,0:4:1
-day 30,7.SQL,with clause from ravi on vimeo.mp4,375.98,0:6:15
-day 30,8.Transaction Management and Concurrency Control,2-phase locking protocol from ravindra on vimeo.mp4,584.41,0:9:44
-day 30,8.Transaction Management and Concurrency Control,acid properties from ravindra on vimeo.mp4,412.37,0:6:52
-day 30,8.Transaction Management and Concurrency Control,cascading aborts  cascadless schedule from ravind.mp4,618.82,0:10:18
-day 30,8.Transaction Management and Concurrency Control,comparsion bw conflict and view serializability fr.mp4,529.0,0:8:49
-day 30,8.Transaction Management and Concurrency Control,complete schedule recoverable schedule from ravind.mp4,600.17,0:10:0
-day 30,8.Transaction Management and Concurrency Control,concurrency control protocds from ravindra on vime.mp4,169.34,0:2:49
-day 30,8.Transaction Management and Concurrency Control,conflict equivalent schedules from ravindra on vim.mp4,730.13,0:12:10
-day 30,8.Transaction Management and Concurrency Control,example 1 on conflict equivalent schedule from rav.mp4,558.53,0:9:18
-day 31,8.Transaction Management and Concurrency Control,example 2 on conflict equivalent schedule from rav.mp4,846.72,0:14:6
-day 31,8.Transaction Management and Concurrency Control,example 45 on view serializability from ravindra o.mp4,373.97,0:6:13
-day 31,8.Transaction Management and Concurrency Control,example 123 on view serializability from ravindra_.mp4,533.4,0:8:53
-day 31,8.Transaction Management and Concurrency Control,example on strict 2pc from ravindra on vimeo.mp4,190.93,0:3:10
-day 31,8.Transaction Management and Concurrency Control,gate 14 question on conflict serializable schedule.mp4,435.03,0:7:15
-day 31,8.Transaction Management and Concurrency Control,gate 1516 question on conflict serializable sched.mp4,122.65,0:2:2
-day 31,8.Transaction Management and Concurrency Control,gate 16 question on conflict serializable schedule.mp4,143.4,0:2:23
-day 31,8.Transaction Management and Concurrency Control,gate 2012 question from ravindra on vimeo.mp4,408.92,0:6:48
-day 31,8.Transaction Management and Concurrency Control,gate 2014 question conflict serializable schedule_.mp4,346.65,0:5:46
-day 31,8.Transaction Management and Concurrency Control,gate 2014 question on conflict serializable schedu.mp4,473.81,0:7:53
-day 31,8.Transaction Management and Concurrency Control,gate 2016 question on conflict serializable schedu.mp4,405.61,0:6:45
-day 32,8.Transaction Management and Concurrency Control,gate question 2 on conflict serializable schedule_.mp4,317.14,0:5:17
-day 32,8.Transaction Management and Concurrency Control,graph based protocol from ravindra on vimeo.mp4,549.27,0:9:9
-day 32,8.Transaction Management and Concurrency Control,incorrect summary problem from ravindra on vimeo.mp4,243.73,0:4:3
-day 32,8.Transaction Management and Concurrency Control,last update and dirty read problem from ravindra o.mp4,652.42,0:10:52
-day 32,8.Transaction Management and Concurrency Control,locks from ravindra on vimeo.mp4,751.4,0:12:31
-day 32,8.Transaction Management and Concurrency Control,number of schedules from ravindra on vimeo.mp4,827.82,0:13:47
-day 32,8.Transaction Management and Concurrency Control,poluy graph example from ravindra on vimeo.mp4,462.85,0:7:42
-day 32,8.Transaction Management and Concurrency Control,serializability from ravindra on vimeo.mp4,628.76,0:10:28
-day 33,8.Transaction Management and Concurrency Control,strict  rigorous conservative from ravindra on v.mp4,678.68,0:11:18
-day 33,8.Transaction Management and Concurrency Control,strict schedule from ravindra on vimeo.mp4,678.36,0:11:18
-day 33,8.Transaction Management and Concurrency Control,thomas write rule from ravibabu on vimeo.mp4,815.66,0:13:35
-day 33,8.Transaction Management and Concurrency Control,time stamp ordering protocol from ravibabu on vime.mp4,1100.82,0:18:20
-day 33,8.Transaction Management and Concurrency Control,trans 31 (examples on timestamp ordering) from uda.mp4,512.73,0:8:32
-day 33,8.Transaction Management and Concurrency Control,transactions from ravindra on vimeo.mp4,705.96,0:11:45
-day 34,8.Transaction Management and Concurrency Control,types of schedule serial schedule from ravindra on.mp4,186.52,0:3:6
-day 34,8.Transaction Management and Concurrency Control,unrepeatable read and phantom problem from ravindr.mp4,269.63,0:4:29
-day 34,8.Transaction Management and Concurrency Control,view serializability from ravindra on vimeo.mp4,505.0,0:8:25
+videoIndex,topic,video,seconds,time,status
+0,1.ER Model,1.introduction to dbms.mp4,632.64,0:10:32,n
+1,1.ER Model,2.models in dbms.mp4,422.53,0:7:2,n
+2,1.ER Model,3.introduction to er model.mp4,597.44,0:9:57,n
+3,1.ER Model,4.attributes.mp4,663.19,0:11:3,n
+4,1.ER Model,5.relationships (1 to many).mp4,1164.82,0:19:24,n
+5,1.ER Model,6.relationships (one to one example).mp4,484.48,0:8:4,n
+6,1.ER Model,7.relationships(many to many).mp4,568.09,0:9:28,n
+7,1.ER Model,8.recursive relationships.mp4,632.36,0:10:32,n
+8,1.ER Model,9.attributes to relationships.mp4,601.64,0:10:1,n
+9,1.ER Model,10.weak entity.mp4,1099.99,0:18:19,n
+10,2.Relational Database Model,1.introduction to relational model.mp4,918.89,0:15:18,n
+11,2.Relational Database Model,2.terminology of relational database.mp4,613.95,0:10:13,n
+12,2.Relational Database Model,3.tuple  tuple values and null.mp4,244.91,0:4:4,n
+13,2.Relational Database Model,4.constraints on relational db schema -- domain co.mp4,444.2,0:7:24,n
+14,2.Relational Database Model,5.constraints on relational database schema.mp4,1855.45,0:30:55,n
+15,2.Relational Database Model,6.entity and referential integrity constraints.mp4,755.31,0:12:35,n
+16,2.Relational Database Model,7.actions upon constraint violations.mp4,1058.82,0:17:38,n
+17,2.Relational Database Model,8.counting the number of sks possible -- example 1.mp4,385.28,0:6:25,n
+18,2.Relational Database Model,9.counting the number of sks possible -- example 2.mp4,335.08,0:5:35,n
+19,2.Relational Database Model,10.counting the number of sks possible -- example_.mp4,417.24,0:6:57,n
+20,2.Relational Database Model,11.counting the number of sks possible -- example_.mp4,213.7,0:3:33,n
+21,3.Conversion of ER model to Relational model,1.step1.mp4,290.77,0:4:50,n
+22,3.Conversion of ER model to Relational model,2.step 2.mp4,523.24,0:8:43,n
+23,3.Conversion of ER model to Relational model,3.step 3.mp4,890.22,0:14:50,n
+24,3.Conversion of ER model to Relational model,4.step 4.mp4,458.11,0:7:38,n
+25,3.Conversion of ER model to Relational model,5.step 5.mp4,906.33,0:15:6,n
+26,3.Conversion of ER model to Relational model,6.step 6.mp4,289.69,0:4:49,n
+27,3.Conversion of ER model to Relational model,7.step 7.mp4,107.48,0:1:47,n
+28,3.Conversion of ER model to Relational model,8.summary of er to rdb conversion.mp4,232.04,0:3:52,n
+29,3.Conversion of ER model to Relational model,9.gate it 2005 question on er diagrams.mp4,301.72,0:5:1,n
+30,3.Conversion of ER model to Relational model,10.gate 12 question on converting er to rdb.mp4,159.0,0:2:39,n
+31,3.Conversion of ER model to Relational model,11.gate it 04 conversion of er to rdb.mp4,319.68,0:5:19,n
+32,3.Conversion of ER model to Relational model,12.gate 05 on cascade on delete in case of foreign.mp4,547.67,0:9:7,n
+33,3.Conversion of ER model to Relational model,13.gate 2005 question on converting er to rdb.mp4,261.16,0:4:21,n
+34,3.Conversion of ER model to Relational model,14.gate 08 on converting er to rdb.mp4,492.27,0:8:12,n
+35,3.Conversion of ER model to Relational model,15.gate 97 question on referential integrity.mp4,361.32,0:6:1,n
+36,4.Normalisation,1.introduction to normalisation.mp4,775.79,0:12:55,n
+37,4.Normalisation,2.introduction to fds.mp4,739.26,0:12:19,n
+38,4.Normalisation,3.fd examples.mp4,864.68,0:14:24,n
+39,4.Normalisation,3nf example 4 from ravindra on vimeo.mp4,660.44,0:11:0,n
+40,4.Normalisation,3nf example 5 from ravindra on vimeo.mp4,587.84,0:9:47,n
+41,4.Normalisation,3nf example 6 from ravindra on vimeo.mp4,679.66,0:11:19,n
+42,4.Normalisation,4.gate 2000 question on fds.mp4,228.25,0:3:48,n
+43,4.Normalisation,5.gate 2002 question on fds.mp4,268.12,0:4:28,n
+44,4.Normalisation,6.formal definition of fds.mp4,274.56,0:4:34,n
+45,4.Normalisation,7.various usages of fds.mp4,595.69,0:9:55,n
+46,4.Normalisation,8.closure set of attributes.mp4,485.12,0:8:5,n
+47,4.Normalisation,9.gate 2006 question on closure set of attributes_.mp4,289.56,0:4:49,n
+48,4.Normalisation,10.determining candidate keys.mp4,606.23,0:10:6,n
+49,4.Normalisation,11.gate 99 question on candidate keys.mp4,614.17,0:10:14,n
+50,4.Normalisation,12.gate 2014 question on candidate keys.mp4,470.36,0:7:50,n
+51,4.Normalisation,13.gate 05 question on candidate key.mp4,579.71,0:9:39,n
+52,4.Normalisation,14.gate 2013 question on candidate key.mp4,1079.51,0:17:59,n
+53,4.Normalisation,15.examples on candidate key -- 1.mp4,394.13,0:6:34,n
+54,4.Normalisation,16.examples on candidate key -- 2.mp4,331.01,0:5:31,n
+55,4.Normalisation,17.examples on candidate key -- 3.mp4,233.0,0:3:53,n
+56,4.Normalisation,18.candidate key example 4.mp4,673.81,0:11:13,n
+57,4.Normalisation,19.examples on candidate key -- 5.mp4,474.18,0:7:54,n
+58,4.Normalisation,20.examples on candidate key -- 6.mp4,158.44,0:2:38,n
+59,4.Normalisation,21.examples on candidate key -- 7.mp4,209.75,0:3:29,n
+60,4.Normalisation,22.candidate key for sub relation -- example 1.mp4,244.42,0:4:4,n
+61,4.Normalisation,23 candidate keys for sub relation -- example 2.mp4,109.53,0:1:49,n
+62,4.Normalisation,24.candidate keys for sub relation -- example 3.mp4,195.48,0:3:15,n
+63,4.Normalisation,25.checking additional fds -- example 1.mp4,578.52,0:9:38,n
+64,4.Normalisation,26.checking additional fds -- example 2.mp4,501.61,0:8:21,n
+65,4.Normalisation,27 gate it 05 question on additional fds.mp4,152.02,0:2:32,n
+66,4.Normalisation,28 equivalence of fds.mp4,341.06,0:5:41,n
+67,4.Normalisation,29.equivalence of fds -- example 1.mp4,109.23,0:1:49,n
+68,4.Normalisation,30.equivalence of fds -- example 2.mp4,158.53,0:2:38,n
+69,4.Normalisation,31.minimal cover.mp4,952.43,0:15:52,n
+70,4.Normalisation,32.minimal cover example 1.mp4,337.05,0:5:37,n
+71,4.Normalisation,33.2013 gate on minimal cover.mp4,262.76,0:4:22,n
+72,4.Normalisation,34.lossless decomposition.mp4,637.72,0:10:37,n
+73,4.Normalisation,35.fd preserving.mp4,379.52,0:6:19,n
+74,4.Normalisation,36.decomposition example1.mp4,290.01,0:4:50,n
+75,4.Normalisation,37 decomposition example2.mp4,363.24,0:6:3,n
+76,4.Normalisation,38.decomposition example 3.mp4,435.8,0:7:15,n
+77,4.Normalisation,39.decomposition example 4.mp4,1174.14,0:19:34,n
+78,4.Normalisation,40.decomposition example 5.mp4,323.37,0:5:23,n
+79,4.Normalisation,41.decomposition example 6.mp4,107.84,0:1:47,n
+80,4.Normalisation,42.first normal form.mp4,339.73,0:5:39,n
+81,4.Normalisation,43.second normal form.mp4,668.61,0:11:8,n
+82,4.Normalisation,44.2nf example 1.mp4,420.65,0:7:0,n
+83,4.Normalisation,45.2 nf example 2.mp4,497.77,0:8:17,n
+84,4.Normalisation,46.2 nf example 3.mp4,260.22,0:4:20,n
+85,4.Normalisation,47.3nf introduction.mp4,510.72,0:8:30,n
+86,4.Normalisation,48.3nf example 1.mp4,550.02,0:9:10,n
+87,4.Normalisation,49.3nf example 2.mp4,442.26,0:7:22,n
+88,4.Normalisation,50.formal defination of  3nf.mp4,375.68,0:6:15,n
+89,4.Normalisation,51.3nf example 3.mp4,594.09,0:9:54,n
+90,4.Normalisation,52.bcnf introduction.mp4,316.27,0:5:16,n
+91,4.Normalisation,53.bcnf example 1.mp4,578.5,0:9:38,n
+92,4.Normalisation,54.bcnf example 2.mp4,668.2,0:11:8,n
+93,4.Normalisation,54.bcnf example 3.mp4,640.0,0:10:40,n
+94,4.Normalisation,54.bcnf example 4.mp4,556.67,0:9:16,n
+95,4.Normalisation,55.bcnf example 4.mp4,299.2,0:4:59,n
+96,4.Normalisation,56.bcnf example 5.mp4,570.43,0:9:30,n
+97,4.Normalisation,57.bcnf example 6.mp4,371.07,0:6:11,n
+98,4.Normalisation,58.bcnf example 7.mp4,639.38,0:10:39,n
+99,4.Normalisation,59.bcnf example 7 continued.mp4,213.63,0:3:33,n
+100,4.Normalisation,60.bcnf example 8 part 1.mp4,417.69,0:6:57,n
+101,4.Normalisation,61.bcnf example 8 part 2.mp4,370.92,0:6:10,n
+102,4.Normalisation,61.bcnf example 9.mp4,401.94,0:6:41,n
+103,4.Normalisation,62.bcnf example 10 part1.mp4,533.61,0:8:53,n
+104,4.Normalisation,63.bcnf example 10 part 2.mp4,181.82,0:3:1,n
+105,4.Normalisation,64.gate questions on normalisation 1.mp4,231.13,0:3:51,n
+106,4.Normalisation,65.gate questions on normalisation 2.mp4,397.18,0:6:37,n
+107,4.Normalisation,66.gate questions on normalisation 3.mp4,285.7,0:4:45,n
+108,4.Normalisation,67.gate questions on normalisation 4.mp4,223.06,0:3:43,n
+109,4.Normalisation,68.gate 2001 question on bcnf.mp4,735.55,0:12:15,n
+110,4.Normalisation,69.gate 04 question on normalisation.mp4,295.06,0:4:55,n
+111,4.Normalisation,69.gate 2002 question.mp4,280.09,0:4:40,n
+112,4.Normalisation,70.gate it 04 question on normalisation.mp4,284.03,0:4:44,n
+113,4.Normalisation,71.gate 07 question.mp4,196.57,0:3:16,n
+114,4.Normalisation,72.gate 2008 question on normalisation.mp4,472.34,0:7:52,n
+115,4.Normalisation,73.gate 2008 and 2013 questions on normalisation.mp4,575.83,0:9:35,n
+116,4.Normalisation,formal defination of 3nf from ravindra on vimeo.mp4,679.91,0:11:19,n
+117,4.Normalisation,gate 94 question normalization from ravibabu on vi.mp4,571.78,0:9:31,n
+118,4.Normalisation,gate 95 on normalization from ravibabu on vimeo.mp4,159.59,0:2:39,n
+119,4.Normalisation,gate 97 on normilization from ravibabu on vimeo.mp4,105.34,0:1:45,n
+120,4.Normalisation,gate 98 on normalization from ravibabu on vimeo.mp4,68.31,0:1:8,n
+121,4.Normalisation,gate 99 on normalization from ravibabu on vimeo.mp4,205.44,0:3:25,n
+122,4.Normalisation,gate 99  2002 on normalization from ravibabu on vi.mp4,197.89,0:3:17,n
+123,4.Normalisation,gate 2000 on normilization from ravibabu on vimeo_.mp4,370.71,0:6:10,n
+124,4.Normalisation,gate 2001 on normilization from ravibabu on vimeo_(1).mp4,781.57,0:13:1,n
+125,4.Normalisation,gate 2001 on normilization from ravibabu on vimeo_.mp4,130.94,0:2:10,n
+126,4.Normalisation,gate 2002 on normilization from ravibabu on vimeo_.mp4,223.32,0:3:43,n
+127,4.Normalisation,gate 2004 on normilization from ravibabu on vimeo_(1).mp4,250.56,0:4:10,n
+128,4.Normalisation,gate 2004 on normilization from ravibabu on vimeo_.mp4,298.75,0:4:58,n
+129,4.Normalisation,gate 2010 on normilization from ravibabu on vimeo_.mp4,275.33,0:4:35,n
+130,4.Normalisation,gate 2011 on normilization from ravibabu on vimeo_.mp4,256.92,0:4:16,n
+131,4.Normalisation,gate 2013 on normilization from ravibabu on vimeo_.mp4,760.68,0:12:40,n
+132,4.Normalisation,gate 2014 on normalization from ravibabu on vimeo_.mp4,266.33,0:4:26,n
+133,4.Normalisation,gate  previous question on normilazation from ravi.mp4,478.85,0:7:58,n
+134,4.Normalisation,os 156 from udaya on vimeo.mp4,198.93,0:3:18,n
+135,4.Normalisation,tbd from ravindra on vimeo.mp4,275.8,0:4:35,n
+136,5.Relational Algebra,1.introduction to relational algebra.mp4,768.87,0:12:48,n
+137,5.Relational Algebra,2.selection operation.mp4,566.93,0:9:26,n
+138,5.Relational Algebra,3.projection operation.mp4,930.24,0:15:30,n
+139,5.Relational Algebra,4.rename operation.mp4,356.1,0:5:56,n
+140,5.Relational Algebra,5.gate 98 question on selection and projection.mp4,413.57,0:6:53,n
+141,5.Relational Algebra,6.gate 2012 question on projection.mp4,396.33,0:6:36,n
+142,5.Relational Algebra,7.set operations.mp4,550.76,0:9:10,n
+143,5.Relational Algebra,8.cartesian product.mp4,667.63,0:11:7,n
+144,5.Relational Algebra,9.join and natural join.mp4,1073.49,0:17:53,n
+145,5.Relational Algebra,10.division operation.mp4,828.74,0:13:48,n
+146,5.Relational Algebra,11.aggregate functions and outer joins.mp4,1052.22,0:17:32,n
+147,5.Relational Algebra,12.complete set of ra operations.mp4,260.05,0:4:20,n
+148,5.Relational Algebra,13.gate questions on la -- 1.mp4,667.24,0:11:7,n
+149,5.Relational Algebra,14.gate 2003 question on converting sql to ra.mp4,231.89,0:3:51,n
+150,5.Relational Algebra,15.gate 04 question on foreign key and relational_.mp4,359.0,0:5:59,n
+151,5.Relational Algebra,16.gate 05 question on decomposition and join.mp4,396.63,0:6:36,n
+152,5.Relational Algebra,17.gate 2014 question on cascading selection and j.mp4,97.34,0:1:37,n
+153,5.Relational Algebra,18.gate 04 question on interpreting an ra expressi.mp4,822.29,0:13:42,n
+154,5.Relational Algebra,19.gate 07 question on interpreting the ra express.mp4,589.29,0:9:49,n
+155,5.Relational Algebra,20.gate 07 it on optimisation of ra expression.mp4,384.17,0:6:24,n
+156,5.Relational Algebra,21.gate 2008 question on natural join.mp4,374.66,0:6:14,n
+157,5.Relational Algebra,22.gate 2010 question on natural join on primary k.mp4,251.52,0:4:11,n
+158,5.Relational Algebra,23.gate 12 question on union and natural join.mp4,254.61,0:4:14,n
+159,5.Relational Algebra,24.gate 14 question on nested evaluation of join.mp4,311.45,0:5:11,n
+160,5.Relational Algebra,25.gate 2014 question on interpretation of ra expr.mp4,548.59,0:9:8,n
+161,5.Relational Algebra,complete set operations from ravibabu on vimeo.mp4,90.2,0:1:30,n
+162,5.Relational Algebra,conversion bw quantitiers-3 from ravindra on vimeo.mp4,565.72,0:9:25,n
+163,5.Relational Algebra,conversion bw quantities -2 from ravindra on vimeo.mp4,365.08,0:6:5,n
+164,5.Relational Algebra,conversion bw quantities-1 from ravindra on vimeo_.mp4,482.58,0:8:2,n
+165,5.Relational Algebra,division operation from ravibabu on vimeo.mp4,502.68,0:8:22,n
+166,5.Relational Algebra,example 1 on drc from ravi on vimeo.mp4,215.02,0:3:35,n
+167,5.Relational Algebra,example 1 on trc syntax from ravindra on vimeo.mp4,504.28,0:8:24,n
+168,5.Relational Algebra,example 2 on drc from ravi on vimeo.mp4,287.96,0:4:47,n
+169,5.Relational Algebra,example 2 on trc syntax from ravindra on vimeo.mp4,222.25,0:3:42,n
+170,5.Relational Algebra,example 3 on drc from ravi on vimeo.mp4,265.49,0:4:25,n
+171,5.Relational Algebra,example 3 on trc syntax from ravindra on vimeo.mp4,580.37,0:9:40,n
+172,5.Relational Algebra,example 4 on drc from ravi on vimeo.mp4,179.31,0:2:59,n
+173,5.Relational Algebra,example 4 on trc syntax from ravindra on vimeo.mp4,548.74,0:9:8,n
+174,5.Relational Algebra,example 5 on drc from ravi on vimeo.mp4,195.97,0:3:15,n
+175,5.Relational Algebra,example 5 on trc syntax from ravindra on vimeo.mp4,587.56,0:9:47,n
+176,5.Relational Algebra,example 6 on trc syntax from ravindra on vimeo.mp4,825.11,0:13:45,n
+177,5.Relational Algebra,example 7 on trc syntax from ravindra on vimeo.mp4,587.8,0:9:47,n
+178,5.Relational Algebra,example 8 on trc syntax from ravindra on vimeo.mp4,375.68,0:6:15,n
+179,5.Relational Algebra,example 9 on trc syntax from ravindra on vimeo.mp4,586.35,0:9:46,n
+180,5.Relational Algebra,example 10 on trc syntax from ravindra on vimeo.mp4,737.54,0:12:17,n
+181,5.Relational Algebra,example 11 on trc syntax from ravindra on vimeo.mp4,279.72,0:4:39,n
+182,5.Relational Algebra,example 12 on trc syntax from ravibabu on vimeo.mp4,312.41,0:5:12,n
+183,5.Relational Algebra,extended relational algebra operations from ravi o.mp4,247.3,0:4:7,n
+184,5.Relational Algebra,free _amp_ bounded variables from ravindra on vime.mp4,664.26,0:11:4,n
+185,5.Relational Algebra,gate 07 on ra from ravindra on vimeo.mp4,587.65,0:9:47,n
+186,5.Relational Algebra,gate 12 on ra from ravindra on vimeo.mp4,347.97,0:5:47,n
+187,5.Relational Algebra,gate 14 on ra from ravindra on vimeo.mp4,657.26,0:10:57,n
+188,5.Relational Algebra,gate 99 on releation alzebra from ravibabu on vime.mp4,309.27,0:5:9,n
+189,5.Relational Algebra,gate 2000 on relation alzebra from ravibabu on vim.mp4,161.6,0:2:41,n
+190,5.Relational Algebra,gate 2002 on rc from ravibabu on vimeo.mp4,78.17,0:1:18,n
+191,5.Relational Algebra,gate 2004 on ra from ravibabu on vimeo.mp4,548.46,0:9:8,n
+192,5.Relational Algebra,gate 2005 on ra from ravindra on vimeo.mp4,407.7,0:6:47,n
+193,5.Relational Algebra,gate 2006 2008 on relational calculus from ravi on.mp4,209.41,0:3:29,n
+194,5.Relational Algebra,gate 2007 on relational calculus from ravi on vime.mp4,480.13,0:8:0,n
+195,5.Relational Algebra,gate 2008 on ra from ravindra on vimeo.mp4,430.68,0:7:10,n
+196,5.Relational Algebra,gate 2014 on ra from ravindra on vimeo.mp4,588.44,0:9:48,n
+197,5.Relational Algebra,gate 2014 question on relational algebra from ravi.mp4,200.3,0:3:20,n
+198,5.Relational Algebra,gate 2015 on ra from ravindra on vimeo.mp4,213.4,0:3:33,n
+199,5.Relational Algebra,gate it 06 on ra from ravindra on vimeo.mp4,318.4,0:5:18,n
+200,5.Relational Algebra,introduction to drc from ravindra on vimeo.mp4,387.88,0:6:27,n
+201,5.Relational Algebra,introduction to relation calculus from ravindra on.mp4,466.82,0:7:46,n
+202,5.Relational Algebra,join operation from ravibabu on vimeo.mp4,301.42,0:5:1,n
+203,5.Relational Algebra,natural join from ravibabu on vimeo.mp4,604.33,0:10:4,n
+204,5.Relational Algebra,trc syntex from ravindra on vimeo.mp4,311.08,0:5:11,n
+205,5.Relational Algebra,types of join from ravibabu on vimeo.mp4,785.69,0:13:5,n
+206,5.Relational Algebra,unsafe relational calculus expression from ravibab.mp4,234.99,0:3:54,n
+207,6.File Structures,b+ tree deletion from ravindra on vimeo.mp4,495.49,0:8:15,n
+208,6.File Structures,b+ tree insertion from ravindra on vimeo.mp4,673.09,0:11:13,n
+209,6.File Structures,b+ trees from ravindra on vimeo.mp4,781.33,0:13:1,n
+210,6.File Structures,b-tree insertion algorthim from ravindra on vimeo_.mp4,159.53,0:2:39,n
+211,6.File Structures,b-tree intersection example 1 from ravindra on vim.mp4,574.68,0:9:34,n
+212,6.File Structures,b-tree intersection example 2 from ravindra on vim.mp4,1077.25,0:17:57,n
+213,6.File Structures,b-tree search from ravindra on vimeo.mp4,441.62,0:7:21,n
+214,6.File Structures,b-tree searching algorithm from ravindra on vimeo_.mp4,711.17,0:11:51,n
+215,6.File Structures,b-trees-1 from ravi on vimeo.mp4,382.93,0:6:22,n
+216,6.File Structures,b-trees-2 from ravi on vimeo.mp4,441.58,0:7:21,n
+217,6.File Structures,classification of indexing from ravi on vimeo.mp4,360.19,0:6:0,n
+218,6.File Structures,clustering index from ravi on vimeo.mp4,189.08,0:3:9,n
+219,6.File Structures,deletion  from a b-tree-1 from ravindra on vimeo.mp4,379.73,0:6:19,n
+220,6.File Structures,deletion from a b-tree-2 from ravindra on vimeo.mp4,256.36,0:4:16,n
+221,6.File Structures,diff between b b+ tree and binary search from ravi.mp4,186.05,0:3:6,n
+222,6.File Structures,example 1 on b+ tree deletion from ravindra on vim.mp4,303.02,0:5:3,n
+223,6.File Structures,example 1 on b+trees from ravindra on vimeo.mp4,572.63,0:9:32,n
+224,6.File Structures,example 1 on b-trees from ravi on vimeo.mp4,469.01,0:7:49,n
+225,6.File Structures,example 2 on b+tree deletion from ravindra on vime.mp4,207.66,0:3:27,n
+226,6.File Structures,example 2 on b-trees from ravi on vimeo.mp4,306.73,0:5:6,n
+227,6.File Structures,example 3 on b+tree deletion from ravindra on vime.mp4,205.53,0:3:25,n
+228,6.File Structures,example 3 on b-trees from ravi on vimeo.mp4,240.17,0:4:0,n
+229,6.File Structures,example on b+tree insertion from ravindra on vimeo.mp4,918.04,0:15:18,n
+230,6.File Structures,example on primary index from ravi on vimeo.mp4,806.91,0:13:26,n
+231,6.File Structures,example on secondary index from ravi on vimeo.mp4,861.4,0:14:21,n
+232,6.File Structures,file organization from ravi on vimeo.mp4,762.58,0:12:42,n
+233,6.File Structures,gate 13 08 on indexing from ravi on vimeo.mp4,121.17,0:2:1,n
+234,6.File Structures,gate 2007 on b+trees from ravindra on vimeo.mp4,170.11,0:2:50,n
+235,6.File Structures,gate 2010 on b+trees from ravindra on vimeo.mp4,123.05,0:2:3,n
+236,6.File Structures,gate 2013 on b+trees from ravindra on vimeo.mp4,362.2,0:6:2,n
+237,6.File Structures,gate 2015 question on b+trees from ravindra on vim.mp4,190.04,0:3:10,n
+238,6.File Structures,gate 2016 on b+tree from ravindra on vimeo.mp4,151.96,0:2:31,n
+239,6.File Structures,gate question 2008 on b-tree from ravindra on vime.mp4,316.2,0:5:16,n
+240,6.File Structures,gate question 2015 on b+trees from ravindra on vim.mp4,220.16,0:3:40,n
+241,6.File Structures,gate question it 2005 on b+trees from ravindra on_.mp4,140.01,0:2:20,n
+242,6.File Structures,intro to indexing from ravi on vimeo.mp4,788.25,0:13:8,n
+243,6.File Structures,organization of records in a file from ravi on vim.mp4,454.36,0:7:34,n
+244,6.File Structures,primary index from ravi on vimeo.mp4,357.65,0:5:57,n
+245,6.File Structures,searching b+trees alogrthim from ravindra on vimeo.mp4,573.95,0:9:33,n
+246,6.File Structures,secondary index from ravi on vimeo.mp4,246.08,0:4:6,n
+247,6.File Structures,underflow and overflow in b-trees from ravindra on.mp4,425.34,0:7:5,n
+248,7.SQL,aggregate functions from ravindra on vimeo.mp4,337.47,0:5:37,n
+249,7.SQL,alasing from ravi on vimeo.mp4,532.05,0:8:52,n
+250,7.SQL,alter from ravindra on vimeo.mp4,274.01,0:4:34,n
+251,7.SQL,any some all from ravindra on vimeo.mp4,394.18,0:6:34,n
+252,7.SQL,arthemetic and between operation from ravindra on_.mp4,590.93,0:9:50,n
+253,7.SQL,constrains in sql from ravindra on vimeo.mp4,1206.27,0:20:6,n
+254,7.SQL,create table from ravindra on vimeo.mp4,331.07,0:5:31,n
+255,7.SQL,creation of schema from ravindra on vimeo.mp4,243.16,0:4:3,n
+256,7.SQL,dealing wiht null values in aggregate functions fr.mp4,321.49,0:5:21,n
+257,7.SQL,dealing with null values -1 from ravindra on vimeo.mp4,407.64,0:6:47,n
+258,7.SQL,dealing with null values -2 from ravindra on vimeo.mp4,338.6,0:5:38,n
+259,7.SQL,dealing with null values -3 from ravindra on vimeo.mp4,183.64,0:3:3,n
+260,7.SQL,delete and update from ravindra on vimeo.mp4,632.19,0:10:32,n
+261,7.SQL,example 1 on exists non existe from ravi on vimeo_.mp4,409.13,0:6:49,n
+262,7.SQL,example 2 on exists non existe from ravi on vimeo_.mp4,584.64,0:9:44,n
+263,7.SQL,example 2 on inoperator from ravindra on vimeo.mp4,421.48,0:7:1,n
+264,7.SQL,example in operator from ravindra on vimeo.mp4,397.4,0:6:37,n
+265,7.SQL,example on join from ravi on vimeo.mp4,388.01,0:6:28,n
+266,7.SQL,example on order by from ravi on vimeo.mp4,512.92,0:8:32,n
+267,7.SQL,example on with clause from ravi on vimeo.mp4,276.8,0:4:36,n
+268,7.SQL,exists  not exists from ravindra on vimeo.mp4,582.68,0:9:42,n
+269,7.SQL,gate 98 on sql from ravindra on vimeo.mp4,346.52,0:5:46,n
+270,7.SQL,gate 99 on sql from ravindra on vimeo.mp4,96.34,0:1:36,n
+271,7.SQL,gate 2000 on sql from ravindra on vimeo.mp4,302.36,0:5:2,n
+272,7.SQL,gate 2003 on sql from ravindra on vimeo.mp4,164.44,0:2:44,n
+273,7.SQL,gate 2003 question on sql from ravindra on vimeo.mp4,351.55,0:5:51,n
+274,7.SQL,gate 2005 question on sql from ravindra on vimeo.mp4,410.97,0:6:50,n
+275,7.SQL,gate 2006 question on sql from ravindra on vimeo.mp4,1007.94,0:16:47,n
+276,7.SQL,gate 2007 question on sql from ravindra on vimeo.mp4,718.06,0:11:58,n
+277,7.SQL,gate 2011 question on sql from ravi on vimeo.mp4,240.73,0:4:0,n
+278,7.SQL,gate 2011 question on sql from ravindra on vimeo.mp4,347.31,0:5:47,n
+279,7.SQL,gate 2012 question on sql from ravi on vimeo.mp4,148.76,0:2:28,n
+280,7.SQL,gate 2014 question on sql from ravi on vimeo.mp4,462.44,0:7:42,n
+281,7.SQL,gate 2014 question on sql from ravi on vimeo_2.mp4,367.72,0:6:7,n
+282,7.SQL,gate 2014 questions on sql from ravi on vimeo.mp4,463.32,0:7:43,n
+283,7.SQL,gate 2015 question on sql from ravindra on vimeo.mp4,151.64,0:2:31,n
+284,7.SQL,gate 2016 question on sql from ravi on vimeo.mp4,368.21,0:6:8,n
+285,7.SQL,gate 2016 qustion on sql from ravi on vimeo.mp4,319.81,0:5:19,n
+286,7.SQL,gate  2004 queation on sql from ravindra on vimeo_.mp4,252.44,0:4:12,n
+287,7.SQL,gate-12 on sql from ravi on vimeo.mp4,119.85,0:1:59,n
+288,7.SQL,group by having clause from ravi on vimeo.mp4,614.49,0:10:14,n
+289,7.SQL,group by-2 from ravi on vimeo.mp4,362.77,0:6:2,n
+290,7.SQL,in operator from ravibabu on vimeo.mp4,407.13,0:6:47,n
+291,7.SQL,inserting into table from ravibabu on vimeo.mp4,420.44,0:7:0,n
+292,7.SQL,introducatio to sql from ravibabu on vimeo.mp4,284.31,0:4:44,n
+293,7.SQL,joins from ravi on vimeo.mp4,402.92,0:6:42,n
+294,7.SQL,order by from ravibabu on vimeo.mp4,567.08,0:9:27,n
+295,7.SQL,pattern matching from ravindra on vimeo.mp4,576.9,0:9:36,n
+296,7.SQL,ref constraints from ravibabu on vimeo.mp4,873.56,0:14:33,n
+297,7.SQL,select from ravibabu on vimeo.mp4,851.39,0:14:11,n
+298,7.SQL,set operations from ravibabu on vimeo.mp4,507.93,0:8:27,n
+299,7.SQL,view from ravibabu on vimeo.mp4,241.73,0:4:1,n
+300,7.SQL,with clause from ravi on vimeo.mp4,375.98,0:6:15,n
+301,8.Transaction Management and Concurrency Control,2-phase locking protocol from ravindra on vimeo.mp4,584.41,0:9:44,n
+302,8.Transaction Management and Concurrency Control,acid properties from ravindra on vimeo.mp4,412.37,0:6:52,n
+303,8.Transaction Management and Concurrency Control,cascading aborts   cascadless schedule from ravind.mp4,618.82,0:10:18,n
+304,8.Transaction Management and Concurrency Control,comparsion bw conflict and view serializability fr.mp4,529.0,0:8:49,n
+305,8.Transaction Management and Concurrency Control,complete schedule recoverable schedule from ravind.mp4,600.17,0:10:0,n
+306,8.Transaction Management and Concurrency Control,concurrency control protocds from ravindra on vime.mp4,169.34,0:2:49,n
+307,8.Transaction Management and Concurrency Control,conflict equivalent schedules from ravindra on vim.mp4,730.13,0:12:10,n
+308,8.Transaction Management and Concurrency Control,example 1 on conflict equivalent schedule from rav.mp4,558.53,0:9:18,n
+309,8.Transaction Management and Concurrency Control,example 2 on conflict equivalent schedule from rav.mp4,846.72,0:14:6,n
+310,8.Transaction Management and Concurrency Control,example 45 on view serializability from ravindra o.mp4,373.97,0:6:13,n
+311,8.Transaction Management and Concurrency Control,example 123 on view serializability from ravindra_.mp4,533.4,0:8:53,n
+312,8.Transaction Management and Concurrency Control,example on strict 2pc from ravindra on vimeo.mp4,190.93,0:3:10,n
+313,8.Transaction Management and Concurrency Control,gate 14 question on conflict serializable schedule.mp4,435.03,0:7:15,n
+314,8.Transaction Management and Concurrency Control,gate 15 16 question on conflict serializable sched.mp4,122.65,0:2:2,n
+315,8.Transaction Management and Concurrency Control,gate 16 question on conflict serializable schedule.mp4,143.4,0:2:23,n
+316,8.Transaction Management and Concurrency Control,gate 2012 question from ravindra on vimeo.mp4,408.92,0:6:48,n
+317,8.Transaction Management and Concurrency Control,gate 2014 question conflict serializable schedule_.mp4,346.65,0:5:46,n
+318,8.Transaction Management and Concurrency Control,gate 2014 question on conflict serializable schedu.mp4,473.81,0:7:53,n
+319,8.Transaction Management and Concurrency Control,gate 2016 question on conflict serializable schedu.mp4,405.61,0:6:45,n
+320,8.Transaction Management and Concurrency Control,gate question 2 on conflict serializable schedule_.mp4,317.14,0:5:17,n
+321,8.Transaction Management and Concurrency Control,graph based protocol from ravindra on vimeo.mp4,549.27,0:9:9,n
+322,8.Transaction Management and Concurrency Control,incorrect summary problem from ravindra on vimeo.mp4,243.73,0:4:3,n
+323,8.Transaction Management and Concurrency Control,last update and dirty read problem from ravindra o.mp4,652.42,0:10:52,n
+324,8.Transaction Management and Concurrency Control,locks from ravindra on vimeo.mp4,751.4,0:12:31,n
+325,8.Transaction Management and Concurrency Control,number of schedules from ravindra on vimeo.mp4,827.82,0:13:47,n
+326,8.Transaction Management and Concurrency Control,poluy graph example from ravindra on vimeo.mp4,462.85,0:7:42,n
+327,8.Transaction Management and Concurrency Control,serializability from ravindra on vimeo.mp4,628.76,0:10:28,n
+328,8.Transaction Management and Concurrency Control,strict   rigorous  conservative from ravindra on v.mp4,678.68,0:11:18,n
+329,8.Transaction Management and Concurrency Control,strict schedule from ravindra on vimeo.mp4,678.36,0:11:18,n
+330,8.Transaction Management and Concurrency Control,thomas write rule from ravibabu on vimeo.mp4,815.66,0:13:35,n
+331,8.Transaction Management and Concurrency Control,time stamp ordering protocol from ravibabu on vime.mp4,1100.82,0:18:20,n
+332,8.Transaction Management and Concurrency Control,trans 31 (examples on timestamp ordering) from uda.mp4,512.73,0:8:32,n
+333,8.Transaction Management and Concurrency Control,transactions from ravindra on vimeo.mp4,705.96,0:11:45,n
+334,8.Transaction Management and Concurrency Control,types of schedule serial schedule from ravindra on.mp4,186.52,0:3:6,n
+335,8.Transaction Management and Concurrency Control,unrepeatable read and phantom problem from ravindr.mp4,269.63,0:4:29,n
+336,8.Transaction Management and Concurrency Control,view serializability from ravindra on vimeo.mp4,505.0,0:8:25,n

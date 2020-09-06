@@ -1,118 +1,118 @@
-day,topic,video,seconds,time
-day 0,01.Operators in C,operators in c.mp4,721.81,0:12:1
-day 0,02.Arrays,1.one dimensional arrays.mp4,695.04,0:11:35
-day 0,02.Arrays,2.row major and column major order in two dimensio.mp4,1120.13,0:18:40
-day 0,02.Arrays,3.binary addressing of two dimensional arrays.mp4,1084.27,0:18:4
-day 0,02.Arrays,4.gate 98 question.mp4,334.29,0:5:34
-day 1,02.Arrays,5.gate 2004 question.mp4,238.49,0:3:58
-day 1,03.Pointers in C,1.introduction to pointers.mp4,743.02,0:12:23
-day 1,03.Pointers in C,2.an example program on pointers.mp4,273.81,0:4:33
-day 1,03.Pointers in C,3.gate 2010 question.mp4,151.0,0:2:31
-day 1,03.Pointers in C,4.pointers and functions.mp4,431.0,0:7:11
-day 1,03.Pointers in C,5.pointers and arrays.mp4,1062.1,0:17:42
-day 1,03.Pointers in C,6.pointer arithmetic or address arithmetic.mp4,559.32,0:9:19
-day 1,03.Pointers in C,7.character arrays and pointers.mp4,680.96,0:11:20
-day 2,03.Pointers in C,8.2011 question on character array and pointers.mp4,558.12,0:9:18
-day 2,03.Pointers in C,9.2008 it question on string constant.mp4,283.16,0:4:43
-day 2,03.Pointers in C,10.array of pointers and multidimensional arrays.mp4,952.53,0:15:52
-day 2,03.Pointers in C,11.multidimensional arrays pointers and function_.mp4,680.77,0:11:20
-day 2,03.Pointers in C,12.question on pointer to pointers and array of po.mp4,1994.73,0:33:14
-day 2,03.Pointers in C,13.pointers to functions.mp4,634.52,0:10:34
-day 3,03.Pointers in C,14.some complex declarations.mp4,796.01,0:13:16
-day 3,04.Structures,1.introduction to structures.mp4,655.49,0:10:55
-day 3,04.Structures,2.example on structures arrays and pointers.mp4,2176.49,0:36:16
-day 3,04.Structures,3.self referential structures.mp4,294.93,0:4:54
-day 4,04.Structures,4.malloc.mp4,1339.43,0:22:19
-day 4,05.Recursion,1.tracing the recursion.mp4,1289.75,0:21:29
-day 4,06.Linked list,1.introduction to sigle linked list.mp4,813.57,0:13:33
-day 4,06.Linked list,2.traversing a single linked list.mp4,496.6,0:8:16
-day 5,06.Linked list,3.inserting an element in sll.mp4,1201.62,0:20:1
-day 5,06.Linked list,4.deleting a node from sll.mp4,1102.06,0:18:22
-day 5,06.Linked list,5.2008 gate question on rearranging an sll.mp4,975.92,0:16:15
-day 5,06.Linked list,6.2010 question on moving a last node to the front.mp4,1005.91,0:16:45
-day 6,06.Linked list,7.printing the elements of sll using recursion.mp4,714.2,0:11:54
-day 6,06.Linked list,8.reversing an sll using iterative program.mp4,840.96,0:14:0
-day 6,06.Linked list,9.recursive program for reversing an sll.mp4,919.94,0:15:19
-day 6,06.Linked list,10.gate 2002 and 2004 questions.mp4,292.01,0:4:52
-day 6,06.Linked list,11.circular linked list.mp4,252.93,0:4:12
-day 6,06.Linked list,12.2003 question.mp4,1351.3,0:22:31
-day 6,06.Linked list,13.insertion into doubly linked list.mp4,727.85,0:12:7
-day 7,07.Stacks and queues,1.introduction to stacks.mp4,388.25,0:6:28
-day 7,07.Stacks and queues,2.implementation of stack using arrays.mp4,895.77,0:14:55
-day 7,07.Stacks and queues,3.linked list implementation of stack.mp4,760.77,0:12:40
-day 7,07.Stacks and queues,4.implementation of a queue using circular array.mp4,1153.47,0:19:13
-day 7,07.Stacks and queues,5.gate 2012 question on circular queue.mp4,114.94,0:1:54
-day 7,07.Stacks and queues,6.gate 2004 question.mp4,342.81,0:5:42
-day 8,07.Stacks and queues,7.gate 94 question on permutations possible with a.mp4,250.43,0:4:10
-day 8,07.Stacks and queues,8.gate 97 question .mp4,447.04,0:7:27
-day 8,07.Stacks and queues,9.gate 03 question .mp4,1082.76,0:18:2
-day 8,07.Stacks and queues,10.gate 2006 question.mp4,1537.71,0:25:37
-day 8,07.Stacks and queues,11.gate 2000 question on implementing queue using_.mp4,325.4,0:5:25
-day 9,07.Stacks and queues,12.infix to postfix conversion algorithm.mp4,1372.1,0:22:52
-day 9,07.Stacks and queues,13.postfix evaluation algorithm.mp4,535.0,0:8:55
-day 9,8.Trees,1.introduction to tree traversals.mp4,851.52,0:14:11
-day 9,8.Trees,2.implementation of traversals and time and space_.mp4,1292.08,0:21:32
-day 9,8.Trees,3.double order traversal.mp4,754.58,0:12:34
-day 10,8.Trees,4.triple order traversal.mp4,280.53,0:4:40
-day 10,8.Trees,5.indirect recursion on trees.mp4,753.66,0:12:33
-day 10,8.Trees,6.number of binary trees possible.mp4,346.01,0:5:46
-day 10,8.Trees,7.number of binary trees possible labelled and unl.mp4,1183.47,0:19:43
-day 10,8.Trees,8.construction of unique binary tree using in orde.mp4,871.4,0:14:31
-day 10,8.Trees,9.recursive program to count the number of nodes.mp4,886.61,0:14:46
-day 11,8.Trees,10.recursive program to count the number of leaves.mp4,956.86,0:15:56
-day 11,8.Trees,11.recursive program to find the full nodes.mp4,1135.21,0:18:55
-day 11,8.Trees,12.recursive program to find the height of a tree_.mp4,729.11,0:12:9
-day 11,8.Trees,13.introduction to bst.mp4,561.86,0:9:21
-day 11,8.Trees,14.gate 05 question on bst.mp4,548.74,0:9:8
-day 12,8.Trees,15.gate 05 question on number of bsts possible.mp4,265.66,0:4:25
-day 12,8.Trees,16.gate 06 it question on search sequence.mp4,915.97,0:15:15
-day 12,8.Trees,17.gate 08 it question on search sequence.mp4,822.25,0:13:42
-day 12,8.Trees,18.gate 08 question on identifying inorder preord.mp4,335.36,0:5:35
-day 12,8.Trees,19.gate question on ways to populate unlabelled bi.mp4,129.15,0:2:9
-day 12,8.Trees,20.deleting a node from bst.mp4,729.24,0:12:9
-day 12,8.Trees,21.finding minimum and maximum in a bst.mp4,615.7,0:10:15
-day 12,8.Trees,22.leaves in complete n-ary tree gate 98 question_.mp4,642.13,0:10:42
-day 13,8.Trees,23.leaves in complete n-ary tree 2002 question.mp4,282.5,0:4:42
-day 13,8.Trees,24.recursive program on testing whether a tree is_.mp4,617.75,0:10:17
-day 13,8.Trees,25.introduction to avl trees and balancing.mp4,1098.9,0:18:18
-day 13,8.Trees,26.constructing avl trees and time complexity anal.mp4,1011.46,0:16:51
-day 13,8.Trees,27.construction of avl tree.mp4,1353.69,0:22:33
-day 13,8.Trees,28.minimum and maximum nodes in an avl tree of hei.mp4,850.65,0:14:10
-day 14,8.Trees,29.relationship between nodes of degree 2 and leav.mp4,532.37,0:8:52
-day 14,8.Trees,30.gate 96 2008 true false questions on trees.mp4,301.08,0:5:1
-day 14,8.Trees,31.it 05 question on the minimum number of nodes i.mp4,950.78,0:15:50
-day 14,8.Trees,32.gate 97 question on finding minimum number of n.mp4,1159.51,0:19:19
-day 14,8.Trees,33.2014 gate question on balanced binary search tr.mp4,499.35,0:8:19
-day 14,8.Trees,34.expression trees.mp4,536.53,0:8:56
-day 15,8.Trees,35.gate 2014 question on expression tree.mp4,113.05,0:1:53
-day 15,8.Trees,36.various tree representations.mp4,809.79,0:13:29
-day 15,8.Trees,37.gate 2000 question on nested tree representatio.mp4,417.81,0:6:57
-day 15,8.Trees,38.gate 2005 it question on guessing the root node.mp4,315.9,0:5:15
-day 15,8.Trees,39.gate it 06 question on array representation of_.mp4,1571.73,0:26:11
-day 15,8.Trees,40.correction to the above question.mp4,84.22,0:1:24
-day 16,8.Trees,41.gate 2014 question on left most child and right.mp4,835.2,0:13:55
-day 16,9.GRAPHS,1.introduction to graphs.mp4,583.08,0:9:43
-day 16,9.GRAPHS,2.representation of graphs.mp4,595.22,0:9:55
-day 16,9.GRAPHS,3.introduction of bfs and dfs.mp4,549.4,0:9:9
-day 16,9.GRAPHS,6.bfs analysis on adjacency matrix implementation_.mp4,260.84,0:4:20
-day 16,9.GRAPHS,7.breadth first traversal using bfs.mp4,507.61,0:8:27
-day 16,9.GRAPHS,8.dfs algorithm.mp4,924.59,0:15:24
-day 17,9.GRAPHS,9.analysis of dfs and dft.mp4,407.96,0:6:47
-day 17,9.GRAPHS,10.gate 03 question on dfs.mp4,512.36,0:8:32
-day 17,9.GRAPHS,11.gate it 08 question on dfs.mp4,437.91,0:7:17
-day 17,9.GRAPHS,12.gate 2014 question on the depth of the dfs recu.mp4,318.44,0:5:18
-day 17,9.GRAPHS,13.gate it 06 question on dfs on guessing the grap.mp4,411.56,0:6:51
-day 17,10.Hashing,1.direct address table.mp4,515.8,0:8:35
-day 17,10.Hashing,2.introduction to hashing.mp4,1063.47,0:17:43
-day 17,10.Hashing,3.chaining.mp4,517.8,0:8:37
-day 18,10.Hashing,4.gate 96 and 2014 questions on chaining.mp4,327.0,0:5:27
-day 18,10.Hashing,5.gate 2014 question on chaining and probability.mp4,262.49,0:4:22
-day 18,10.Hashing,6.gate 97 question on chaining and probability.mp4,397.85,0:6:37
-day 18,10.Hashing,7.open addressing.mp4,1517.78,0:25:17
-day 18,10.Hashing,8.linear probing.mp4,924.82,0:15:24
-day 18,10.Hashing,9.2008 gate question on linear probing.mp4,475.46,0:7:55
-day 19,10.Hashing,10.2008 it question on linear probing.mp4,223.81,0:3:43
-day 19,10.Hashing,11.gate it 07 question on probability and hashing_.mp4,173.4,0:2:53
-day 19,10.Hashing,12.gate 2010 question on probing and permutations_.mp4,689.41,0:11:29
-day 19,10.Hashing,13.quadratic probing.mp4,1113.49,0:18:33
-day 19,10.Hashing,14.double hashing.mp4,717.97,0:11:57
+videoIndex,topic,video,seconds,time,status
+0,01.Operators in C,operators in c.mp4,721.81,0:12:1,n
+1,02.Arrays,1.one dimensional arrays.mp4,695.04,0:11:35,n
+2,02.Arrays,2.row major and column major order in two dimensio.mp4,1120.13,0:18:40,n
+3,02.Arrays,3.binary addressing of two dimensional arrays.mp4,1084.27,0:18:4,n
+4,02.Arrays,4.gate 98 question.mp4,334.29,0:5:34,n
+5,02.Arrays,5.gate 2004 question.mp4,238.49,0:3:58,n
+6,03.Pointers in C,1.introduction to pointers.mp4,743.02,0:12:23,n
+7,03.Pointers in C,2.an example program on pointers.mp4,273.81,0:4:33,n
+8,03.Pointers in C,3.gate 2010 question.mp4,151.0,0:2:31,n
+9,03.Pointers in C,4.pointers and functions.mp4,431.0,0:7:11,n
+10,03.Pointers in C,5.pointers and arrays.mp4,1062.1,0:17:42,n
+11,03.Pointers in C,6.pointer arithmetic or address arithmetic.mp4,559.32,0:9:19,n
+12,03.Pointers in C,7.character arrays and pointers.mp4,680.96,0:11:20,n
+13,03.Pointers in C,8.2011 question on character array and pointers.mp4,558.12,0:9:18,n
+14,03.Pointers in C,9.2008 it question on string constant.mp4,283.16,0:4:43,n
+15,03.Pointers in C,10.array of pointers and multidimensional arrays.mp4,952.53,0:15:52,n
+16,03.Pointers in C,11.multidimensional arrays  pointers and function_.mp4,680.77,0:11:20,n
+17,03.Pointers in C,12.question on pointer to pointers and array of po.mp4,1994.73,0:33:14,n
+18,03.Pointers in C,13.pointers to functions.mp4,634.52,0:10:34,n
+19,03.Pointers in C,14.some complex declarations.mp4,796.01,0:13:16,n
+20,04.Structures,1.introduction to structures.mp4,655.49,0:10:55,n
+21,04.Structures,2.example on structures  arrays and pointers.mp4,2176.49,0:36:16,n
+22,04.Structures,3.self referential structures.mp4,294.93,0:4:54,n
+23,04.Structures,4.malloc.mp4,1339.43,0:22:19,n
+24,05.Recursion,1.tracing the recursion.mp4,1289.75,0:21:29,n
+25,06.Linked list,1.introduction to sigle linked list.mp4,813.57,0:13:33,n
+26,06.Linked list,2.traversing a single linked list.mp4,496.6,0:8:16,n
+27,06.Linked list,3.inserting an element in sll.mp4,1201.62,0:20:1,n
+28,06.Linked list,4.deleting a node from sll.mp4,1102.06,0:18:22,n
+29,06.Linked list,5.2008 gate question on rearranging an sll.mp4,975.92,0:16:15,n
+30,06.Linked list,6.2010 question on moving a last node to the front.mp4,1005.91,0:16:45,n
+31,06.Linked list,7.printing the elements of sll using recursion.mp4,714.2,0:11:54,n
+32,06.Linked list,8.reversing an sll using iterative program.mp4,840.96,0:14:0,n
+33,06.Linked list,9.recursive program for reversing an sll.mp4,919.94,0:15:19,n
+34,06.Linked list,10.gate 2002 and 2004 questions.mp4,292.01,0:4:52,n
+35,06.Linked list,11.circular linked list.mp4,252.93,0:4:12,n
+36,06.Linked list,12.2003 question.mp4,1351.3,0:22:31,n
+37,06.Linked list,13.insertion into doubly linked list.mp4,727.85,0:12:7,n
+38,07.Stacks and queues,1.introduction to stacks.mp4,388.25,0:6:28,n
+39,07.Stacks and queues,2.implementation of stack using arrays.mp4,895.77,0:14:55,n
+40,07.Stacks and queues,3.linked list implementation of stack.mp4,760.77,0:12:40,n
+41,07.Stacks and queues,4.implementation of a queue using circular array.mp4,1153.47,0:19:13,n
+42,07.Stacks and queues,5.gate 2012 question on circular queue.mp4,114.94,0:1:54,n
+43,07.Stacks and queues,6.gate 2004 question.mp4,342.81,0:5:42,n
+44,07.Stacks and queues,7.gate 94 question on permutations possible with a.mp4,250.43,0:4:10,n
+45,07.Stacks and queues,8.gate 97 question .mp4,447.04,0:7:27,n
+46,07.Stacks and queues,9.gate 03 question .mp4,1082.76,0:18:2,n
+47,07.Stacks and queues,10.gate 2006 question.mp4,1537.71,0:25:37,n
+48,07.Stacks and queues,11.gate 2000 question on implementing queue using_.mp4,325.4,0:5:25,n
+49,07.Stacks and queues,12.infix to postfix conversion algorithm.mp4,1372.1,0:22:52,n
+50,07.Stacks and queues,13.postfix evaluation algorithm.mp4,535.0,0:8:55,n
+51,8.Trees,1.introduction to tree traversals.mp4,851.52,0:14:11,n
+52,8.Trees,2.implementation of traversals and time and space_.mp4,1292.08,0:21:32,n
+53,8.Trees,3.double order traversal.mp4,754.58,0:12:34,n
+54,8.Trees,4.triple order traversal.mp4,280.53,0:4:40,n
+55,8.Trees,5.indirect recursion on trees.mp4,753.66,0:12:33,n
+56,8.Trees,6.number of binary trees possible.mp4,346.01,0:5:46,n
+57,8.Trees,7.number of binary trees possible labelled and unl.mp4,1183.47,0:19:43,n
+58,8.Trees,8.construction of unique binary tree using in orde.mp4,871.4,0:14:31,n
+59,8.Trees,9.recursive program to count the number of nodes.mp4,886.61,0:14:46,n
+60,8.Trees,10.recursive program to count the number of leaves.mp4,956.86,0:15:56,n
+61,8.Trees,11.recursive program to find the full nodes.mp4,1135.21,0:18:55,n
+62,8.Trees,12.recursive program to find the height of a tree_.mp4,729.11,0:12:9,n
+63,8.Trees,13.introduction to bst.mp4,561.86,0:9:21,n
+64,8.Trees,14.gate 05 question on bst.mp4,548.74,0:9:8,n
+65,8.Trees,15.gate 05 question on number of bsts possible.mp4,265.66,0:4:25,n
+66,8.Trees,16.gate 06 it question on search sequence.mp4,915.97,0:15:15,n
+67,8.Trees,17.gate 08 it question on search sequence.mp4,822.25,0:13:42,n
+68,8.Trees,18.gate 08 question on identifying inorder  preord.mp4,335.36,0:5:35,n
+69,8.Trees,19.gate question on ways to populate unlabelled bi.mp4,129.15,0:2:9,n
+70,8.Trees,20.deleting a node from bst.mp4,729.24,0:12:9,n
+71,8.Trees,21.finding minimum and maximum in a bst.mp4,615.7,0:10:15,n
+72,8.Trees,22.leaves in complete n-ary tree gate 98 question_.mp4,642.13,0:10:42,n
+73,8.Trees,23.leaves in complete n-ary tree 2002 question.mp4,282.5,0:4:42,n
+74,8.Trees,24.recursive program on testing whether a tree is_.mp4,617.75,0:10:17,n
+75,8.Trees,25.introduction to avl trees and balancing.mp4,1098.9,0:18:18,n
+76,8.Trees,26.constructing avl trees and time complexity anal.mp4,1011.46,0:16:51,n
+77,8.Trees,27.construction of avl tree.mp4,1353.69,0:22:33,n
+78,8.Trees,28.minimum and maximum nodes in an avl tree of hei.mp4,850.65,0:14:10,n
+79,8.Trees,29.relationship between nodes of degree 2 and leav.mp4,532.37,0:8:52,n
+80,8.Trees,30.gate 96 2008 true false questions on trees.mp4,301.08,0:5:1,n
+81,8.Trees,31.it 05 question on the minimum number of nodes i.mp4,950.78,0:15:50,n
+82,8.Trees,32.gate 97 question on finding minimum number of n.mp4,1159.51,0:19:19,n
+83,8.Trees,33.2014 gate question on balanced binary search tr.mp4,499.35,0:8:19,n
+84,8.Trees,34.expression trees.mp4,536.53,0:8:56,n
+85,8.Trees,35.gate 2014 question on expression tree.mp4,113.05,0:1:53,n
+86,8.Trees,36.various tree representations.mp4,809.79,0:13:29,n
+87,8.Trees,37.gate 2000 question on nested tree representatio.mp4,417.81,0:6:57,n
+88,8.Trees,38.gate 2005 it question on guessing the root node.mp4,315.9,0:5:15,n
+89,8.Trees,39.gate it 06 question on array representation of_.mp4,1571.73,0:26:11,n
+90,8.Trees,40.correction to the above question.mp4,84.22,0:1:24,n
+91,8.Trees,41.gate 2014 question on left most child and right.mp4,835.2,0:13:55,n
+92,9.GRAPHS,1.introduction to graphs.mp4,583.08,0:9:43,n
+93,9.GRAPHS,2.representation of graphs.mp4,595.22,0:9:55,n
+94,9.GRAPHS,3.introduction of bfs and dfs.mp4,549.4,0:9:9,n
+95,9.GRAPHS,6.bfs analysis on adjacency matrix implementation_.mp4,260.84,0:4:20,n
+96,9.GRAPHS,7.breadth first traversal using bfs.mp4,507.61,0:8:27,n
+97,9.GRAPHS,8.dfs algorithm.mp4,924.59,0:15:24,n
+98,9.GRAPHS,9.analysis of dfs and dft.mp4,407.96,0:6:47,n
+99,9.GRAPHS,10.gate 03 question on dfs.mp4,512.36,0:8:32,n
+100,9.GRAPHS,11.gate it 08 question on dfs.mp4,437.91,0:7:17,n
+101,9.GRAPHS,12.gate 2014 question on the depth of the dfs recu.mp4,318.44,0:5:18,n
+102,9.GRAPHS,13.gate it 06 question on dfs on guessing the grap.mp4,411.56,0:6:51,n
+103,10.Hashing,1.direct address table.mp4,515.8,0:8:35,n
+104,10.Hashing,2.introduction to hashing.mp4,1063.47,0:17:43,n
+105,10.Hashing,3.chaining.mp4,517.8,0:8:37,n
+106,10.Hashing,4.gate 96 and 2014 questions on chaining.mp4,327.0,0:5:27,n
+107,10.Hashing,5.gate 2014 question on chaining and probability.mp4,262.49,0:4:22,n
+108,10.Hashing,6.gate 97 question on chaining and probability.mp4,397.85,0:6:37,n
+109,10.Hashing,7.open addressing.mp4,1517.78,0:25:17,n
+110,10.Hashing,8.linear probing.mp4,924.82,0:15:24,n
+111,10.Hashing,9.2008 gate question on linear probing.mp4,475.46,0:7:55,n
+112,10.Hashing,10.2008 it question on linear probing.mp4,223.81,0:3:43,n
+113,10.Hashing,11.gate it 07 question on probability and hashing_.mp4,173.4,0:2:53,n
+114,10.Hashing,12.gate 2010 question on probing and permutations_.mp4,689.41,0:11:29,n
+115,10.Hashing,13.quadratic probing.mp4,1113.49,0:18:33,n
+116,10.Hashing,14.double hashing.mp4,717.97,0:11:57,n
